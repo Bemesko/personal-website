@@ -1,5 +1,3 @@
-# Poker Solitaire
-
 ## Colinha para Jogadores
 
 [Referência das Mãos de Poker](https://www.pokerstars.com/pt-BR/poker/games/rules/hand-rankings/?&no_redirect=1)

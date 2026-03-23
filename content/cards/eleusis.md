@@ -1,5 +1,3 @@
-# Eleusis
-
 ## Colinha para Jogadores
 
 ## Regras

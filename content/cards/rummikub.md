@@ -1,5 +1,3 @@
-# Rummikub
-
 ## Colinha para Jogadores
 
 - **Séries de Cartas Permitidas:**

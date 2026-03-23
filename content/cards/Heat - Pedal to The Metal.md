@@ -1,5 +1,3 @@
-# Heat - Pedal to the Metal
-
 ## Colinha para Jogadores
 
 ### Cartas:

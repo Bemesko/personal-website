@@ -1,5 +1,3 @@
-# Regicide
-
 ## Colinha para Jogadores
 
 ## Regras

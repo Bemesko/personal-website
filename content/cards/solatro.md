@@ -1,5 +1,3 @@
-# Solatro
-
 ## Colinha para Jogadores
 
 ### Pontos para Cada Mão

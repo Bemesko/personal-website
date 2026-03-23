@@ -1,5 +1,3 @@
-# Truco Gaúcho
-
 ## Colinha para Jogadores
 
 - Cartas da mais forte para mais fraca: 1 de espadas, 1 de paus, 7 de espadas, 7 de ouros, 4, 5, 6, 7, 10, 11, 12, 1, 2, 3

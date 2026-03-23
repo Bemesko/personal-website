@@ -1,5 +1,6 @@
-# Jogos de Cartas Tops
-
+---
+title: Jogos de Cartas Tops
+---
 Este é um índice de jogos de cartas que eu recomendo para você sair da frente do computador e jogar com seus amigos.
 
 Essa lista existe para eu conseguir lembrar das regras de todos esses jogos e ter uma colinha das regras por celular pra quem for jogar comigo.

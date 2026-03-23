@@ -1,5 +1,3 @@
-# Scoundrel
-
 ## Colinha para Jogadores
 
 - **Valores das Cartas:** J=11, Q=12, K=13, A=14

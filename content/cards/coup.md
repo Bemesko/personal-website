@@ -1,5 +1,3 @@
-# Coup
-
 ## Colinha para Jogadores
 
 ### Cartas
