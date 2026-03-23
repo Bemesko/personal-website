@@ -1,0 +1,1 @@
+Copy-Item -Recurse "G:\Meu Drive\Obsidian\borbsidian\00-meu-site\*.*" ".\content"

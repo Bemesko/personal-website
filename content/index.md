@@ -1,5 +1,10 @@
-# Site do Bernardo
-
-## Coisas que tem por aqui:
-
-- [Regras pra jogos de cartas bons e que podem ser jogados com um baralho normal.](/cards)
+---
+title: Site do Bernardo
+---
+## Meus Interesses
+- [[cards|Jogos de cartas que usam baralho padrão]]
+- [[Videogames]]
+- [[RPGs]]
+- [[Boardgames]]
+- [[Livros]]
+- [[Filmes]]
