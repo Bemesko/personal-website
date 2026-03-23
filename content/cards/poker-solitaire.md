@@ -1,5 +1,3 @@
-  Poker Solitaire 
-
 # Poker Solitaire
 
 ## Colinha para Jogadores
@@ -8,14 +6,14 @@
 
 ### Pontuações para Cada Mão
 
-    Pair - 2
-    2 pair - 5
-    3 of a kind - 10
-    Straight - 15
-    Flush - 20
-    Full House - 25
-    4 of a kind - 50
-    Straight Flush - 75
-    Royal Flush - 100
+- Pair - 2
+- 2 pair - 5
+- 3 of a kind - 10
+- Straight - 15
+- Flush - 20
+- Full House - 25
+- 4 of a kind - 50
+- Straight Flush - 75
+- Royal Flush - 100
 
 ## Regras
