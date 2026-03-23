@@ -16,33 +16,33 @@ Os critérios para um jogo entrar nessa lista são:
 
 ## Jogos para 1
 
-- [Scoundrel](/cards/scoundrel)
+- [[Scoundrel]]
 - Clear the Dungeon
-- [Solatro](/cards/solatro)
-- [Poker Solitaire](/cards/poker-solitaire)
-- [Regicide](/cards/regicide)
+- [[Solatro]]
+- [[Poker Solitaire]]
+- [[Regicide]]
 
 ## Jogos para 2
 
 - Gin Rummy
-- [Coup](/cards/coup)
-- [Rummikub](/cards/rummikub)
-- [Truco Gaúcho](/cards/truco-gaucho)
+- [[Coup]]
+- [[Rummikub]]
+- [[Truco Gaúcho]]
 - Córdoba
-- [Regicide](/cards/regicide)
+- [[Regicide]]
 - Duo Regna
-- [Heat - Pedal to the Metal](/cards/heat)
+- [[Heat - Pedal to The Metal]]
 
 ## Jogos para 3 ou mais
 
-- [Coup](/cards/coup)
-- [Rummikub](/cards/rummikub)
-- [Truco Gaúcho](/cards/truco-gaucho)
+- [[Coup]]
+- [[Rummikub]]
+- [[Truco Gaúcho]]
 - Skull
 - Trio
-- [Eleusis](/cards/eleusis)
-- [Regicide](/cards/regicide)
-- [Heat - Pedal to the Metal](/cards/heat)
+- [[Eleusis]]
+- [[Regicide]]
+- [[Heat - Pedal to The Metal]]
 - The Crew - The Quest for Planet Nine
 
 ## Referências pra essa lista
