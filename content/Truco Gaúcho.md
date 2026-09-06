@@ -1,6 +1,6 @@
 ## Colinha para Jogadores
 
-- Cartas da mais forte para mais fraca: 1 de espadas, 1 de paus, 7 de espadas, 7 de ouros, 4, 5, 6, 7, 10, 11, 12, 1, 2, 3
+- Cartas da mais forte para mais fraca: 1 de espadas, 1 de paus, 7 de espadas, 7 de ouros, 3, 2, 1, 12, 11, 10, 7, 6, 5, 4
 - **Quem vence quando:**
   - Regra geral: Melhor de 3
   - Empate na 1a rodada: Vence quem ganhar a 2a
@@ -18,6 +18,7 @@
 ## Regras
 
 ### Objetivo
+Truco é um jogo de vazas. Basicamente cada jogador joga sua "geralmente" melhor carta. Via de regra o melhor de 3 vence. Durante o jogo os jogadores podem aumentar a aposta pedindo "truco", "retruco" e "vale 4", o que é usado pra botar pressão e potencialmente blefar. No início de cada rodada também é possível fazer uma disputa inicial de pontos pedindo o "envido".
 
 ### Preparação
 
@@ -30,5 +31,4 @@
 ### Fim da Partida
 
 ## Referências
-
 - [https://www.jogatina.com/regras-como-jogar-truco-gauderio.html](https://www.jogatina.com/regras-como-jogar-truco-gauderio.html)
