@@ -17,11 +17,11 @@ Os critérios para um jogo entrar nessa lista são:
 - [[Poker Solitaire]]
 - [[Regicide]]
 - Jack's Dream (Unless Games)
-- Skyway (Isaludo)
-- The Emissary (Isaludo)
+- [[Skyway]] ([[Isaludo]])
+- [[The Emissary]] ([[Isaludo]])
 
 ## Jogos para 2
-- Gin Rummy
+- [[Gin Rummy]]
 - [[Coup]]
 - [[Rummikub]]
 - [[Truco Gaúcho]]
