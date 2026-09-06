@@ -60,7 +60,7 @@ Caso você queira entrar na sua própria jornada pra descobrir jogos de cartas b
 	- [pagat.com - Um índice gigante de jogos de cartas](https://www.pagat.com/)
 	- [Unless Games - Deck](https://deck.unlessgames.com/)
 - Compilações em PDF
-	- [Isaludo](https://drive.google.com/file/d/1DB2YF46s0oVFUSIpR9vxoGIbhpTKz2jw/view)
+	- [Isaludo](https://drive.google.com/file/d/1DB2YF46s0oVFUSIpR9vxoGIbhpTKz2jw/view) e meu rank pessoal em [[Isaludo]]
 	- [Femtitvå](https://drive.google.com/file/d/0B4gHU-NRUKaicnZiUFpBOVlvOUE/view?resourcekey=0-9x28WX0gWC4ckrA_VK1cVg)
 	- [Cheapass Games Poker Suite](https://static1.squarespace.com/static/5e1ce8815cb76d3000d347f2/t/62bce42082117d0302a88b32/1656546374045/PokerSuite22.pdf)
 - Listas Ludopedia
